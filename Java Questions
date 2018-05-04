@@ -70,7 +70,136 @@ Barcles asked question -
 31. Write Complex object representation in JSON format?
 32. How we can extends this TaxCalculator application?
 
+1.	Explain OOP’s concept?
+2.	They will pickup any oops pillar and ask you question on it in deep? Mostly logical questions?
+3.	Overriding and Overloading rules and will give you 3-4 scenarios on same.
+4.	Will check your coding conversions and program structure.
+5.	Decorator design pattern and Factory pattern explanation.
+6.	Hashmap and Hashtable diff.?
+7.	Why Hashcode and equals method ?
+8.	Hibernate : States of Objects in hibernate?
+9.	Spring : in which modules u have worked in spring?
+10.	Which type of configuration you have used in Spring?(XML/Annotation).
+11.	Asked about @Bean , @Autowired  Annotations?
+12.	Scenario of Autowiring when two same object’s are to be injected. ?(use of qualifier)
+13.	What is adapter pattern tell me with example and where you will use this in TaxCalculator application?
+14.	Scopes of Beans in spring?
+15.	What is REST And SOAP?What you did consumed or produced?
+16.	Which implementation you have used in REST?
+17.	What are the methods of HTTP ?
+18.	Write Complex object representation in JSON format?
+19.	How we can extends this TaxCalculator application?
 
 
-Generic Link
-http://java.meritcampus.com/core-java-topics/generics-wildcards-in-java-with-examples
+
+
+#1. Design a class diagram where Vehicle is parent and having two child class 2Wheeler and 4Wheeler.
+#2. Runtime Polymorphism with example
+#3. Your project architecture and its flow.
+#4. Design Patterns, Specially Singleton with code example.
+#5. Hibernate SessionFactory, Session Classes, Difference between get and load method.
+#6. How to handle transaction and at what layer we will use transaction.
+#7. How we can sort a list of Employee class base on name and id. What is difference between Comparable and Comparator.
+#8. What are the changes we need to do to convert MVC flow to Rest flow. 
+#9. What is Hashing Techniques and do we need to override hash method for TreeSet.
+#10. What is Constructor-arg and Property in Spring.
+
+
+Asked Interview Questions (Dev Ram)
+#1. what are access modifier? Can controller method be private?
+
+#2. explain exception hierarchy?
+#3. what is difference between rdbms and nosql database?
+#4. how to handle transaction management in sql and nosql?
+
+#5. does nosql support ACID properties?
+
+#6. what are the ways to bootstrap angular application?
+
+#7. how to notifiy changes in one controller to others in angular?
+
+#8. how to share variable between two controller in angular?
+#9. what are solid properties? 
+#10. what are different verbs in spring?
+#11. what are new features added in java 7?
+
+Asked Interview Questions (Vynkatesh)
+1)   what is Java 7 and 8 features ?
+2)   what is difference between hashmap and linkedhashmap ?
+3)   how many types of design patterns ?
+4)   what is stream api ?
+5)   what is lambda functions?
+6)   java SAX and DOM parser?
+7)   explain briefly exception hierarchy?
+8)   what is custom exception?
+9)   how many interfaces in Collections framework ?
+10)  what is solid principles in java ?
+11) Explain gang of 4 in design pattern?
+
+
+
+Sunil:
+1. Explain about your work experience and role you played in the last project.
+2. Explain about your last project with an architechture and flow.
+3. How did you manage session in the last project?
+4. How did you secure REST API in the last project?
+5. Why we use Spring framework?
+6. Explain Spring IOC and DI.
+7. How will you designe architechture of Spring REST API for below example:
+   Company
+   Exmployee
+   Salary
+8. Asked scenarios based question in above example:
+   Design service to get Company's Employee.
+   Design service to get Employee's salary.
+9. What are the scope of the spring bean? and explain each.
+10. Can we use request scoped bean into signleton bean?
+11. What will happen if we use request scoped bean into signleton bean?
+12. Can we use signleton bean into request scoped bean?
+13. Have you worked on Persistance layer framework?
+14. How you apply lazyloading in spring?
+15. What is jenkin?
+16. What did you do in jenkin?
+17. Have you worked in Angular JS?
+18. Have you worked on Maven?
+
+
+Nitin:
+1. Explain about your work experience and technoloties you have worked on in the last project.
+2. Explain about your last project with an architechture and flow.
+3  How will you achive configration of different framwork in your project and explain step by step the layer of its implementation.
+4. Why we use Spring framework?
+5. Explain Spring IOC and DI and where to use it?
+6. What are the scope of the spring bean? and explain each.
+7. How will you designe architechture of Spring REST API with Hibernate for below example:
+   Company
+   Exmployee
+   Salary
+8. Asked scenarios based question in above example related to DI:
+   How will autowired dependices between Comapny and different types of Employees (using Interface or Class)?
+9. What is bean life cycle?
+10. How to intialize bean?
+11. How to make lazy loading in Spiring IOC?
+12. What are the attributes of spring beans? and can we decalre bean without id?
+13. What is proxy in AOP? Have you used in your project?
+14. What is jenkin?
+15. What did you do in jenkin?
+16. What are the UI technologies you have worked in?
+17. Have you worked in JavaScrpit and HTML?
+18. Have you worked on Maven?
+19. How to declare function in javascript?
+20. How to call an AJAX call using javascript?
+
+
+
+
+
+
+Best links for preparation - 
+
+java interview questions link - https://java2blog.com/core-java-interview-questions-and-answers/
+Abstract and interfacte topic - https://beginnersbook.com/2013/05/abstract-class-vs-interface-in-java/
+Oops best real time example - https://www.beginnersbook.in/2017/09/real-time-examples-of-java-oops-concepts.html
+Collection difference all questions - https://www.javatpoint.com/java-collections-interview-questions
+WildCard Best example link - https://www.geeksforgeeks.org/wildcards-in-java/
+hashcode link - https://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/
